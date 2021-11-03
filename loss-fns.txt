@@ -1,0 +1,8 @@
+A loss function is a mathematical method of calculating how wrong the predictions of an ML model are. There are various types of losses. Loss functions are not fixed, they change depending on the task in hand and the goal to be met.
+Broadly, loss functions can be classified into two major categories depending upon the type of learning task we are dealing with — Regression losses and Classification losses.
+
+Some basic regression losses are: 
+squared loss and absolute loss
+
+Some basic classification losses are:
+Cross entropy loss and hinge loss
